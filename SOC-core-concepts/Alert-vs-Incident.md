@@ -15,7 +15,7 @@ like SIEM when a suspicious activity is detected.
 - May be a false positive
 - Requires analysis and triage
 
-🧠 Example:
+ Example:
 Multiple failed login attempts from the same IP address.
 
 ---
@@ -42,7 +42,7 @@ Confirmed brute force attack resulting in account compromise.
 
 ---
 
-## 👩‍💻 SOC Analyst (L1) Responsibility
+##  SOC Analyst (L1) Responsibility
 - Analyze alerts
 - Identify false positives
 - Confirm incidents
